@@ -1,0 +1,13 @@
+package FirstGitCommit;
+/**
+*
+*@author S545615
+*/
+public class Main{
+/**
+*@param args the command line arguments
+*/
+public atatic void main(String[] args) {
+System.out.println("Hello World");
+}
+}
